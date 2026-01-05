@@ -53,6 +53,11 @@ topics:
 mood: 
 ---
 
+# Topics Taught In Session
+- Write the things you learnt in session.
+
+---
+
 # Today I Learned
 
 Write **1–3 concrete things** you understood better today.
@@ -84,6 +89,16 @@ Rules:
 - “Why does X behave differently when Y?”
 - “What breaks if I remove Z?”
 - “How does this scale / fail / degrade?”
+
+---
+
+# What I Have Done Today
+- Write the things you already did.
+
+---
+
+# Things To Do
+- Write the things you want to do.
 
 ---
 

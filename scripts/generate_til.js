@@ -44,14 +44,6 @@ const template = `---
 date: ${dateStr}
 day: ${dayName(today)}
 week: ${isoWeekNumber(today)}
-tags:
-  - javascript
-  - til
-  - learning
-topics:
-  - 
-mood: 
----
 
 # Topics Taught In Session
 - Write the things you learnt in session.
@@ -93,11 +85,13 @@ Rules:
 ---
 
 # What I Have Done Today
+
 - Write the things you already did.
 
 ---
 
 # Things To Do
+
 - Write the things you want to do.
 
 ---
